@@ -1,0 +1,21 @@
+{
+  "release": "v0.1.0-core",
+  "scope": "Reconstructed final detection-side modules; no pretrained weights or benchmark reproduction",
+  "files": {
+    ".github/workflows/tests.yml": "56aaad79c73c8d0b71a4c18019d326e3d1eaf82a513466f365113a4a36c0170f",
+    ".gitignore": "7e838e68c9d644774207357ef8656cb8153601c66d5b6bb3ee85aebdf63a2dc8",
+    "README.md": "0c0f960339fcb19140e4efdba2642c6840e7202a1e77bc6a4277b9259c132423",
+    "TEST_REPORT.md": "025a0783b0aa922d9ee406a65125fa070f9646dbf3c75fba06dd22bf4c354332",
+    "demo.py": "ebad81f0f0e791bb0fe1599f9b059950a831016b9ff1509f2f57de938cb60f5d",
+    "docs/PAPER_CODE_MAPPING.md": "a7d8e783269b499c57eb3d3c26dd5ee578dda682099bdafc221e74442cf987be",
+    "requirements-yolo.txt": "891478b0542685700636119eb5e9487ba0de2b0300510e4cbf903694b88bd536",
+    "requirements.txt": "8fdda11189a14f389522e1c71bd8103a038a7cbb65f3d9797852ace0ae344ea4",
+    "tests/test_core.py": "3836ef995efd22189ff2affd9e13692520e5c8cf7d7840acfc050a4b12f0680a",
+    "tests/test_yolo.py": "b7f62a0e0d7b3771b17765e62ca06698080efd85fe4e9e77bfd8efdd93cb635f",
+    "tpg_yolo/__init__.py": "5a29d1e8c8427ce959cd20e5052718ac03204338d70ebe62439678c75e3b8677",
+    "tpg_yolo/fusion.py": "c6ee337e9fd8a7a19def368a35b044b9f0298b70bed991b2c3b03620eb45284d",
+    "tpg_yolo/priors.py": "d2e9b3fe49112261f7ef7281c94d30fdabc4a832c8078c6d0c1f8729c2be3e17",
+    "tpg_yolo/yolo.py": "6cafe79bfe8ae50899329754a02eda97b87783e1ac89618d413134e555ab801a",
+    "\u4f7f\u7528\u8bf4\u660e.md": "512b3a344a90a05e9bc986c54bce1cfa8af997745a8150fc5aad55c2a38806ee"
+  }
+}

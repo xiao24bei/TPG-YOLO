@@ -1,0 +1,5 @@
+-r requirements.txt
+torchvision==0.23.0
+ultralytics==8.3.58
+opencv-python==4.11.0.86
+pandas==2.2.3
